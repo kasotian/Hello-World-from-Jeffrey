@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?mso-infoPathSolution name="urn:schemas-microsoft-com:office:infopath:IRD:-myXSD-2016-01-04T06-14-30" solutionVersion="1.0.0.1160" productVersion="15.0.0.0" PIVersion="1.0.0.0" href="https://team.apac.sp.wp.corpintra.net/sites/02146/ODM/IRD/Forms/template.xsn"?>
+<?mso-application progid="InfoPath.Document" versionProgid="InfoPath.Document.4"?>
+
+<my:myFields xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:pc="http://schemas.microsoft.com/office/infopath/2007/PartnerControls" xmlns:ma="http://schemas.microsoft.com/office/2009/metadata/properties/metaAttributes" xmlns:d="http://schemas.microsoft.com/office/infopath/2009/WSSList/dataFields" xmlns:q="http://schemas.microsoft.com/office/infopath/2009/WSSList/queryFields" xmlns:dfs="http://schemas.microsoft.com/office/infopath/2003/dataFormSolution" xmlns:dms="http://schemas.microsoft.com/office/2009/documentManagement/types" xmlns:my="http://schemas.microsoft.com/office/infopath/2003/myXSD/2016-01-04T06:14:30" xmlns:xd="http://schemas.microsoft.com/office/infopath/2003" xml:lang="en-US">
+
+<my:InfrastructureInfo>
+		
+		<my:Infra_Item xmlns:my="http://schemas.microsoft.com/office/infopath/2003/myXSD/2016-01-04T06:14:30">
+		  <my:InfraItem_Environment>Testing</my:InfraItem_Environment>
+		  <my:InfraItem_ServerRequirement>Server Infra Beijing Virtual (Wintel / Linux) - 4 CPU ,8 GB RAM</my:InfraItem_ServerRequirement>
+	  	<my:InfraItem_RAMto></my:InfraItem_RAMto>
+	  	<my:InfraItem_OS>Windows 2012 standard (64-bit)</my:InfraItem_OS>
+		  <my:InfraItem_Location>ADCC1 CBGN BGN</my:InfraItem_Location>
+		  <my:InfraItem_Purpose>Web</my:InfraItem_Purpose>
+		  <my:InfraItem_StorageRequirement xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">100</my:InfraItem_StorageRequirement>
+  		<my:InfraItem_StorageAllocated>182</my:InfraItem_StorageAllocated>
+	  	<my:InfraItem_Localization></my:InfraItem_Localization>
+		  <my:InfraItem_OtherRequirement>IIS  and .net 4.6 needed  D:\100GB need a External SSL cert and URL for UAT 1</my:InfraItem_OtherRequirement>
+		  <my:InfraItem_BackupApplication>File-System</my:InfraItem_BackupApplication>
+		  <my:InfraItem_BackupRetentionPolicy>Basic2 (B2)</my:InfraItem_BackupRetentionPolicy>
+		  <my:InfraItem_Database>Not Required</my:InfraItem_Database>
+		  <my:InfraItem_DataTransfer>Not Required</my:InfraItem_DataTransfer>
+		  <my:Section_ForITI_Location></my:Section_ForITI_Location>
+		  <my:Section_ForITI_StorageAllocated></my:Section_ForITI_StorageAllocated>
+		  <my:Section_ForITI_DataTransfer></my:Section_ForITI_DataTransfer>
+		  <my:Section_ForITI_Localization></my:Section_ForITI_Localization>
+		</my:Infra_Item>
+		
+		<my:Infra_Item xmlns:my="http://schemas.microsoft.com/office/infopath/2003/myXSD/2016-01-04T06:14:30">
+		  <my:InfraItem_Environment>Testing</my:InfraItem_Environment>
+		  <my:InfraItem_ServerRequirement>Server Infra Beijing Virtual (Wintel / Linux) - 4 CPU ,8 GB RAM</my:InfraItem_ServerRequirement>
+		  <my:InfraItem_RAMto></my:InfraItem_RAMto>
+		  <my:InfraItem_OS>Windows 2012 standard (64-bit)</my:InfraItem_OS>
+		  <my:InfraItem_Location>ADCC1 CBGN BGN</my:InfraItem_Location>
+		  <my:InfraItem_Purpose>Application</my:InfraItem_Purpose>
+		  <my:InfraItem_StorageRequirement xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">100</my:InfraItem_StorageRequirement>
+		  <my:InfraItem_StorageAllocated>182</my:InfraItem_StorageAllocated>
+		  <my:InfraItem_Localization></my:InfraItem_Localization>
+		  <my:InfraItem_OtherRequirement>IIS  and .net 4.6 needed  D:\100GB for UAT 2</my:InfraItem_OtherRequirement>
+		  <my:InfraItem_BackupApplication>File-System</my:InfraItem_BackupApplication>
+		  <my:InfraItem_BackupRetentionPolicy>Basic2 (B2)</my:InfraItem_BackupRetentionPolicy>
+		  <my:InfraItem_Database>Not Required</my:InfraItem_Database>
+		  <my:InfraItem_DataTransfer></my:InfraItem_DataTransfer>
+		  <my:Section_ForITI_Location></my:Section_ForITI_Location>
+		  <my:Section_ForITI_StorageAllocated></my:Section_ForITI_StorageAllocated>
+		  <my:Section_ForITI_DataTransfer></my:Section_ForITI_DataTransfer>
+		  <my:Section_ForITI_Localization></my:Section_ForITI_Localization>
+		</my:Infra_Item>
+		  
+		<my:Infra_Item xmlns:my="http://schemas.microsoft.com/office/infopath/2003/myXSD/2016-01-04T06:14:30">
+		  <my:InfraItem_Environment>Testing</my:InfraItem_Environment>
+		  <my:InfraItem_ServerRequirement>Server Infra Beijing Virtual (Wintel / Linux) - 4 CPU ,8 GB RAM</my:InfraItem_ServerRequirement>
+		  <my:InfraItem_RAMto></my:InfraItem_RAMto>
+		  <my:InfraItem_OS>Windows 2012 standard (64-bit)</my:InfraItem_OS>
+		  <my:InfraItem_Location>ADCC1 CBGN ISN</my:InfraItem_Location>
+		  <my:InfraItem_Purpose>Application</my:InfraItem_Purpose>
+		  <my:InfraItem_StorageRequirement xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">150</my:InfraItem_StorageRequirement>
+		  <my:InfraItem_StorageAllocated>242</my:InfraItem_StorageAllocated>
+		  <my:InfraItem_Localization></my:InfraItem_Localization>
+		  <my:InfraItem_OtherRequirement>IIS  and .net 4.6 needed  D:\150GB need a internal SSL cert and URL for UAT3</my:InfraItem_OtherRequirement>
+		  <my:InfraItem_BackupApplication>File-System</my:InfraItem_BackupApplication>
+		  <my:InfraItem_BackupRetentionPolicy>Basic2 (B2)</my:InfraItem_BackupRetentionPolicy>
+		  <my:InfraItem_Database></my:InfraItem_Database>
+		  <my:InfraItem_DataTransfer></my:InfraItem_DataTransfer>
+		  <my:Section_ForITI_Location></my:Section_ForITI_Location>
+		  <my:Section_ForITI_StorageAllocated></my:Section_ForITI_StorageAllocated>
+		  <my:Section_ForITI_DataTransfer></my:Section_ForITI_DataTransfer>
+		  <my:Section_ForITI_Localization></my:Section_ForITI_Localization>
+		</my:Infra_Item>
+		
+		<my:Infra_Item xmlns:my="http://schemas.microsoft.com/office/infopath/2003/myXSD/2016-01-04T06:14:30">
+		  <my:InfraItem_Environment>Testing</my:InfraItem_Environment>
+		  <my:InfraItem_ServerRequirement>Server Infra Beijing Virtual (Wintel / Linux) - 8 CPU ,16 GB RAM</my:InfraItem_ServerRequirement>
+		  <my:InfraItem_RAMto></my:InfraItem_RAMto>
+		  <my:InfraItem_OS>Windows 2012 standard (64-bit)</my:InfraItem_OS>
+		  <my:InfraItem_Location>ADCC1 CBGN ISN</my:InfraItem_Location>
+		  <my:InfraItem_Purpose>Database</my:InfraItem_Purpose>
+		  <my:InfraItem_StorageRequirement xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">250</my:InfraItem_StorageRequirement>
+		  <my:InfraItem_StorageAllocated>374</my:InfraItem_StorageAllocated>
+		  <my:InfraItem_Localization></my:InfraItem_Localization>
+		  <my:InfraItem_OtherRequirement>DB version: SQL Server 2014 Enterpise 64bit needed        D:\100GB, E:\150GB for UAT4</my:InfraItem_OtherRequirement>
+		  <my:InfraItem_BackupApplication>DB integration</my:InfraItem_BackupApplication>
+		  <my:InfraItem_BackupRetentionPolicy>Basic2 (B2)</my:InfraItem_BackupRetentionPolicy>
+		  <my:InfraItem_Database>MS SQL Server</my:InfraItem_Database>
+		  <my:InfraItem_DataTransfer></my:InfraItem_DataTransfer>
+		  <my:Section_ForITI_Location></my:Section_ForITI_Location>
+		  <my:Section_ForITI_StorageAllocated></my:Section_ForITI_StorageAllocated>
+		  <my:Section_ForITI_DataTransfer></my:Section_ForITI_DataTransfer>
+		  <my:Section_ForITI_Localization></my:Section_ForITI_Localization>
+		</my:Infra_Item>
+		
+		<my:Infra_Item xmlns:my="http://schemas.microsoft.com/office/infopath/2003/myXSD/2016-01-04T06:14:30">
+		  <my:InfraItem_Environment>Production</my:InfraItem_Environment>
+		  <my:InfraItem_ServerRequirement>Server Infra Beijing Virtual (Wintel / Linux) - 8 CPU ,16 GB RAM</my:InfraItem_ServerRequirement>
+		  <my:InfraItem_RAMto></my:InfraItem_RAMto>
+		  <my:InfraItem_OS>Windows 2012 standard (64-bit)</my:InfraItem_OS>
+		  <my:InfraItem_Location>ADCC1 CBGN BGN</my:InfraItem_Location>
+		  <my:InfraItem_Purpose>Web</my:InfraItem_Purpose>
+		  <my:InfraItem_StorageRequirement xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">100</my:InfraItem_StorageRequirement>
+		  <my:InfraItem_StorageAllocated>194</my:InfraItem_StorageAllocated>
+		  <my:InfraItem_Localization></my:InfraItem_Localization>
+		  <my:InfraItem_OtherRequirement>IIS  and .net 4.6 needed  D:\100GB need a External SSL cert and URL for PROD1</my:InfraItem_OtherRequirement>
+		  <my:InfraItem_BackupApplication>File-System</my:InfraItem_BackupApplication>
+		  <my:InfraItem_BackupRetentionPolicy>Comprehensive1 (C1)</my:InfraItem_BackupRetentionPolicy>
+		  <my:InfraItem_Database></my:InfraItem_Database>
+		  <my:InfraItem_DataTransfer></my:InfraItem_DataTransfer>
+		  <my:Section_ForITI_Location></my:Section_ForITI_Location>
+		  <my:Section_ForITI_StorageAllocated></my:Section_ForITI_StorageAllocated>
+		  <my:Section_ForITI_DataTransfer></my:Section_ForITI_DataTransfer>
+		  <my:Section_ForITI_Localization></my:Section_ForITI_Localization>
+		</my:Infra_Item>
+		
+		<my:Infra_Item xmlns:my="http://schemas.microsoft.com/office/infopath/2003/myXSD/2016-01-04T06:14:30">
+		  <my:InfraItem_Environment>Production</my:InfraItem_Environment>
+		  <my:InfraItem_ServerRequirement>Server Infra Beijing Virtual (Wintel / Linux) - 8 CPU ,16 GB RAM</my:InfraItem_ServerRequirement>
+		  <my:InfraItem_RAMto></my:InfraItem_RAMto>
+		  <my:InfraItem_OS>Windows 2012 standard (64-bit)</my:InfraItem_OS>
+		  <my:InfraItem_Location>ADCC1 CBGN BGN</my:InfraItem_Location>
+		  <my:InfraItem_Purpose>Application</my:InfraItem_Purpose>
+		  <my:InfraItem_StorageRequirement xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">100</my:InfraItem_StorageRequirement>
+		  <my:InfraItem_StorageAllocated>194</my:InfraItem_StorageAllocated>
+		  <my:InfraItem_Localization></my:InfraItem_Localization>
+		  <my:InfraItem_OtherRequirement>IIS  and .net 4.6 needed  D:\100GB  for PROD2</my:InfraItem_OtherRequirement>
+		  <my:InfraItem_BackupApplication>File-System</my:InfraItem_BackupApplication>
+		  <my:InfraItem_BackupRetentionPolicy>Comprehensive1 (C1)</my:InfraItem_BackupRetentionPolicy>
+		  <my:InfraItem_Database></my:InfraItem_Database>
+		  <my:InfraItem_DataTransfer></my:InfraItem_DataTransfer>
+		  <my:Section_ForITI_Location></my:Section_ForITI_Location>
+		  <my:Section_ForITI_StorageAllocated></my:Section_ForITI_StorageAllocated>
+		  <my:Section_ForITI_DataTransfer></my:Section_ForITI_DataTransfer>
+		  <my:Section_ForITI_Localization></my:Section_ForITI_Localization>
+		</my:Infra_Item>
+		
+		<my:Infra_Item xmlns:my="http://schemas.microsoft.com/office/infopath/2003/myXSD/2016-01-04T06:14:30">
+		  <my:InfraItem_Environment>Production</my:InfraItem_Environment>
+		  <my:InfraItem_ServerRequirement>Server Infra Beijing Virtual (Wintel / Linux) - 8 CPU ,16 GB RAM</my:InfraItem_ServerRequirement>
+		  <my:InfraItem_RAMto></my:InfraItem_RAMto>
+		  <my:InfraItem_OS>Windows 2012 standard (64-bit)</my:InfraItem_OS>
+		  <my:InfraItem_Location>ADCC1 CBGN ISN</my:InfraItem_Location>
+		  <my:InfraItem_Purpose>Application</my:InfraItem_Purpose>
+		  <my:InfraItem_StorageRequirement xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">100</my:InfraItem_StorageRequirement>
+		  <my:InfraItem_StorageAllocated>194</my:InfraItem_StorageAllocated>
+		  <my:InfraItem_Localization></my:InfraItem_Localization>
+		  <my:InfraItem_OtherRequirement>IIS  and .net 4.6 needed  D:\150GB need a internal SSL cert and URL for PROD3</my:InfraItem_OtherRequirement>
+		  <my:InfraItem_BackupApplication>File-System</my:InfraItem_BackupApplication>
+		  <my:InfraItem_BackupRetentionPolicy>Comprehensive1 (C1)</my:InfraItem_BackupRetentionPolicy>
+		  <my:InfraItem_Database></my:InfraItem_Database>
+		  <my:InfraItem_DataTransfer></my:InfraItem_DataTransfer>
+		  <my:Section_ForITI_Location></my:Section_ForITI_Location>
+		  <my:Section_ForITI_StorageAllocated></my:Section_ForITI_StorageAllocated>
+		  <my:Section_ForITI_DataTransfer></my:Section_ForITI_DataTransfer>
+		  <my:Section_ForITI_Localization></my:Section_ForITI_Localization>
+		</my:Infra_Item>
+		  
+		<my:Infra_Item xmlns:my="http://schemas.microsoft.com/office/infopath/2003/myXSD/2016-01-04T06:14:30">
+		  <my:InfraItem_Environment>Production</my:InfraItem_Environment>
+		  <my:InfraItem_ServerRequirement>Server Infra Beijing Virtual (Wintel / Linux) - 8 CPU ,16 GB RAM</my:InfraItem_ServerRequirement>
+		  <my:InfraItem_RAMto>32GB</my:InfraItem_RAMto>
+		  <my:InfraItem_OS>Windows 2012 standard (64-bit)</my:InfraItem_OS>
+		  <my:InfraItem_Location>ADCC1 CBGN ISN</my:InfraItem_Location>
+		  <my:InfraItem_Purpose>Database</my:InfraItem_Purpose>
+		  <my:InfraItem_StorageRequirement xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">500</my:InfraItem_StorageRequirement>
+		  <my:InfraItem_StorageAllocated>674</my:InfraItem_StorageAllocated>
+		  <my:InfraItem_Localization></my:InfraItem_Localization>
+		  <my:InfraItem_OtherRequirement>DB version: SQL Server 2014 Enterpise 64bit needed        D:\100GB, E:\400GB for PROD4</my:InfraItem_OtherRequirement>
+		  <my:InfraItem_BackupApplication>DB integration</my:InfraItem_BackupApplication>
+		  <my:InfraItem_BackupRetentionPolicy>Comprehensive1 (C1)</my:InfraItem_BackupRetentionPolicy>
+		  <my:InfraItem_Database>MS SQL Server</my:InfraItem_Database>
+		  <my:InfraItem_DataTransfer></my:InfraItem_DataTransfer>
+		  <my:Section_ForITI_Location></my:Section_ForITI_Location>
+		  <my:Section_ForITI_StorageAllocated></my:Section_ForITI_StorageAllocated>
+		  <my:Section_ForITI_DataTransfer></my:Section_ForITI_DataTransfer>
+		  <my:Section_ForITI_Localization></my:Section_ForITI_Localization>
+		</my:Infra_Item>
+		
+	</my:InfrastructureInfo>
+	
+	</my:myFields>
