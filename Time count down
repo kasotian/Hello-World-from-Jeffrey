@@ -1,0 +1,19 @@
+function nwt() 
+{
+  var str=$('#deal_expiry_timer_e3cdcd2a').text(); 
+  var out=str.match(/\d+/g);
+  console.log(out); 
+  var h=parseInt(out[0]),m=parseInt(out[1]),s=parseInt(out[2]); 
+  console.log(h+'#'+m+'#'+s);
+  var calc=h*3600+m*60+s;
+  console.log(calc); 
+  if(calc==0) 
+  {
+  } 
+  else 
+  {
+    console.log('wait');
+  } 
+  var t=setTimeout('nwt()',2000);
+} 
+nwt();
